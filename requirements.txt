@@ -1,0 +1,12 @@
+notepad requirements.txt
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+
+
+
+
